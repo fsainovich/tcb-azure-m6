@@ -1,0 +1,6 @@
+name: Postgre
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Postgre server in Azure
